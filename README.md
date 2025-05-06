@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JezDons
-- 👀 I’m interested in statistics and health analytics for NHS England and NHS Improvement
+- 👀 I’m interested in statistics and health analytics for NHS England
 - 🌱 I’m currently learning about GitHub, R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jeremy.burrows@nhs.net
